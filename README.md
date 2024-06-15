@@ -24,7 +24,7 @@ Let's bridge the gap between learning and employment, together. 💪
 
 Figma  Design:-
 https://shorturl.at/ZEZ4B
-MingleMingle Sample Pictures and overiview:-
+
 
 
 
