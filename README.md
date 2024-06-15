@@ -1,3 +1,15 @@
+
+
+https://github.com/RAHULBONEY/Mind_Mingle/assets/110589401/c8d3c25a-4d34-47b2-80fc-6b88155aff3a
+
+
+
+https://github.com/RAHULBONEY/Mind_Mingle/assets/110589401/591e526f-4022-4d5e-bcf3-aa8e4484884d
+
+
+
+https://github.com/RAHULBONEY/Mind_Mingle/assets/110589401/0571517c-1ade-4498-b55b-4673648e3728
+
 # MindMingle
 
 Community-Based Learning Platform 🌟
