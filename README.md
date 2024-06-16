@@ -32,7 +32,7 @@ Our platform addresses this challenge by providing a unified space where users c
 
 Join our Community-Based Learning Platform today and take control of your personal and professional growth like never before! 🌱👩‍🏫👨‍💼
 
-Let's bridge the gap between learning and employment, together. 💪
+Let's bridge the gap between learning and employment, together 💪
 
 Figma  Design:-
 https://shorturl.at/ZEZ4B
