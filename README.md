@@ -34,7 +34,7 @@ Join our Community-Based Learning Platform today and take control of your person
 
 Let's bridge the gap between learning and employment, together 💪
 
-Figma  Design:-
+Figma  Design:
 https://shorturl.at/ZEZ4B
 
 
