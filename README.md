@@ -19,7 +19,7 @@ Welcome to our Community-Based Learning Platform! This innovative platform is de
 ### Key Features:
 - Post and View Jobs 📝: Easily post job openings and browse through a wide range of job listings. Whether you're looking to hire or seeking new opportunities, our platform connects you with the right people
   
-- Teach and Learn 📚: Share your knowledge by teaching courses or gain new skills through learning. Our platform supports both educators and learners, creating a vibrant community of knowledge exchange.
+- Teach and Learn 📚: Share your knowledge by teaching courses or gain new skills through learning. Our platform supports both educators and learners, creating a vibrant community of knowledge exchange
 
 ### The Problem:
 The conventional approach to education and employment remains fragmented, with a significant gap between learning and job opportunities. Existing apps fail to seamlessly integrate these crucial aspects of personal and professional growth, leaving users to navigate disjointed platforms and processes. This fragmentation presents a substantial challenge for individuals seeking to advance their careers or embark on new learning journeys.
