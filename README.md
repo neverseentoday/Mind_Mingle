@@ -1,14 +1,5 @@
 
 
-https://github.com/RAHULBONEY/Mind_Mingle/assets/110589401/c8d3c25a-4d34-47b2-80fc-6b88155aff3a
-
-
-
-https://github.com/RAHULBONEY/Mind_Mingle/assets/110589401/591e526f-4022-4d5e-bcf3-aa8e4484884d
-
-
-
-https://github.com/RAHULBONEY/Mind_Mingle/assets/110589401/0571517c-1ade-4498-b55b-4673648e3728
 
 # MindMingle
 
@@ -30,12 +21,8 @@ Our platform addresses this challenge by providing a unified space where users c
 - Connect with Industry Experts and Peers : Engage with a community of professionals and learners, share insights, and build valuable networks.
 - Personalized Learning Paths 🎯: Tailor your learning experience to match your career goals, ensuring you acquire the skills most relevant to your desired job opportunities.
 
-Join our Community-Based Learning Platform today and take control of your personal and professional growth like never before! 🌱👩‍🏫👨‍💼
 
-Let's bridge the gap between learning and employment, together 
 
-Figma  Design:
-https://shorturl.at/ZEZ4B
 
 
 
